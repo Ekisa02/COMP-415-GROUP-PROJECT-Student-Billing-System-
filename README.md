@@ -2,7 +2,7 @@
 
 Description
 -----------
-Simple student billing system (project repo description: "desc"). This repository contains both a command-line implementation (C) and a browser-based GUI (HTML) for managing student billing data, plus a sample data file and a project members spreadsheet.
+Simple student billing system. This repository contains both a command-line implementation (C) and a browser-based GUI (HTML) for managing student billing data, plus a sample data file and a project members spreadsheet.
 
 Repository structure
 --------------------
